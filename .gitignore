@@ -1,0 +1,22 @@
+# Python кэш и скомпилированные файлы
+__pycache__/
+*.pyc
+
+# Виртуальные окружения
+venv/
+env/
+
+# Pytest кэш
+.pytest_cache/
+
+# Allure отчеты (генерируются при каждом запуске)
+allure-report/
+allure-results/
+
+# IDE файлы
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
