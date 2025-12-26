@@ -49,3 +49,4 @@ pytest tests/test_faq.py
 pytest tests/ --alluredir=allure-results
 allure generate allure-results -o allure-report --clean
 allure open allure-report# Sprint_6
+ 
